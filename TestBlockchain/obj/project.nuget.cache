@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "3doeQU/yUg8dWYNpfB2dhNpy4fyaGb2+JKvrneNsyObzVcyU8Aypu6g2ygW+PELvk9LuDh/D5DGpDOiV2CWuXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\celso\\source\\repos\\Blockchain\\TestBlockchain\\TestBlockchain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celso\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\celso\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\celso\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "C:\\Users\\celso\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "C:\\Users\\celso\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\celso\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\celso\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\celso\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\celso\\.nuget\\packages\\nunit.analyzers\\3.10.0\\nunit.analyzers.3.10.0.nupkg.sha512",
+    "C:\\Users\\celso\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\celso\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

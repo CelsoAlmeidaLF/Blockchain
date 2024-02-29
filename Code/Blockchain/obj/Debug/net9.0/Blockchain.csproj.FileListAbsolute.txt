@@ -1,0 +1,12 @@
+C:\Users\celso\Source\Repos\Blockchain\Code\Blockchain\bin\Debug\net9.0\Blockchain.deps.json
+C:\Users\celso\source\repos\Blockchain\Code\Blockchain\bin\Debug\net9.0\Blockchain.dll
+C:\Users\celso\source\repos\Blockchain\Code\Blockchain\bin\Debug\net9.0\Blockchain.pdb
+C:\Users\celso\source\repos\Blockchain\Code\Blockchain\obj\Debug\net9.0\Blockchain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celso\source\repos\Blockchain\Code\Blockchain\obj\Debug\net9.0\Blockchain.AssemblyInfoInputs.cache
+C:\Users\celso\source\repos\Blockchain\Code\Blockchain\obj\Debug\net9.0\Blockchain.AssemblyInfo.cs
+C:\Users\celso\source\repos\Blockchain\Code\Blockchain\obj\Debug\net9.0\Blockchain.csproj.CoreCompileInputs.cache
+C:\Users\celso\source\repos\Blockchain\Code\Blockchain\obj\Debug\net9.0\Blockchain.sourcelink.json
+C:\Users\celso\source\repos\Blockchain\Code\Blockchain\obj\Debug\net9.0\Blockchain.dll
+C:\Users\celso\source\repos\Blockchain\Code\Blockchain\obj\Debug\net9.0\refint\Blockchain.dll
+C:\Users\celso\source\repos\Blockchain\Code\Blockchain\obj\Debug\net9.0\Blockchain.pdb
+C:\Users\celso\Source\Repos\Blockchain\Code\Blockchain\obj\Debug\net9.0\ref\Blockchain.dll

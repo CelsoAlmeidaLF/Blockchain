@@ -3,12 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code", "Code", "{06507C9A-46A8-4D0E-B229-E82EAF071D73}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TDD", "TDD", "{E4DD6E04-1CCD-4752-AC42-33C7D95553DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blockchain", "Code\Blockchain\Blockchain.csproj", "{D94B89B7-4A9D-435D-9DE5-EFCDB03CE12D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBlockchain", "TestBlockchain\TestBlockchain.csproj", "{6BA61ABC-CBD2-4D2E-B1C9-99A5DFE25937}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D94B89B7-4A9D-435D-9DE5-EFCDB03CE12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94B89B7-4A9D-435D-9DE5-EFCDB03CE12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94B89B7-4A9D-435D-9DE5-EFCDB03CE12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94B89B7-4A9D-435D-9DE5-EFCDB03CE12D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA61ABC-CBD2-4D2E-B1C9-99A5DFE25937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA61ABC-CBD2-4D2E-B1C9-99A5DFE25937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA61ABC-CBD2-4D2E-B1C9-99A5DFE25937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA61ABC-CBD2-4D2E-B1C9-99A5DFE25937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D94B89B7-4A9D-435D-9DE5-EFCDB03CE12D} = {06507C9A-46A8-4D0E-B229-E82EAF071D73}
+		{6BA61ABC-CBD2-4D2E-B1C9-99A5DFE25937} = {E4DD6E04-1CCD-4752-AC42-33C7D95553DF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E97A718-B8B8-441B-A961-36A9F394C1E4}
 	EndGlobalSection
 EndGlobal
