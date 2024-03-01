@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\celso\\source\\repos\\Blockchain\\TestBlockchain\\TestBlockchain.csproj": {}
+    "H:\\.NET 9\\Blockchain\\TestBlockchain\\TestBlockchain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\celso\\source\\repos\\Blockchain\\TestBlockchain\\TestBlockchain.csproj": {
+    "H:\\.NET 9\\Blockchain\\TestBlockchain\\TestBlockchain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\celso\\source\\repos\\Blockchain\\TestBlockchain\\TestBlockchain.csproj",
+        "projectUniqueName": "H:\\.NET 9\\Blockchain\\TestBlockchain\\TestBlockchain.csproj",
         "projectName": "TestBlockchain",
-        "projectPath": "C:\\Users\\celso\\source\\repos\\Blockchain\\TestBlockchain\\TestBlockchain.csproj",
+        "projectPath": "H:\\.NET 9\\Blockchain\\TestBlockchain\\TestBlockchain.csproj",
         "packagesPath": "C:\\Users\\celso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\celso\\source\\repos\\Blockchain\\TestBlockchain\\obj\\",
+        "outputPath": "H:\\.NET 9\\Blockchain\\TestBlockchain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

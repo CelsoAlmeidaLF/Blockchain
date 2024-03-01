@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3doeQU/yUg8dWYNpfB2dhNpy4fyaGb2+JKvrneNsyObzVcyU8Aypu6g2ygW+PELvk9LuDh/D5DGpDOiV2CWuXA==",
+  "dgSpecHash": "94FOcfktLgCoCgwxho6l1TaQJd6JLuM+NivNN566aTGMZkLZ/ZI76VDddfq46WguvBJ5I5mr2Fr5eW2jI53oEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\celso\\source\\repos\\Blockchain\\TestBlockchain\\TestBlockchain.csproj",
+  "projectFilePath": "H:\\.NET 9\\Blockchain\\TestBlockchain\\TestBlockchain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\celso\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\celso\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
